@@ -1,0 +1,17 @@
+.kotak{
+    width:50%;
+    margin: 10% 0 0 0;
+    background: black;
+    height:300px;
+    color:white;
+}
+.kepala{
+    text-align:center;
+}
+.link{
+    font-family:sans-serif;
+    padding: 10px;
+}
+.link:hover{
+    background: red;
+}

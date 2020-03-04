@@ -1,0 +1,19 @@
+.antar{
+    display:flex;
+    justify-content:space-between;
+}
+.bbl{
+    width: 30%;
+    text-size: 10pt;
+}
+.bbr{
+    width: 30%;
+    text-size: 10pt;
+}
+.besar{
+    max-width:100%;
+    float:left;
+}
+th,tr,td{
+    width:20%;
+}
